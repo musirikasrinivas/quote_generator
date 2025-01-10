@@ -9,9 +9,7 @@ setup(
     author="Sai Srinivas Reddy Musirika",
     author_email="musirikasrinivas@gmail.com",
     description="A Python library for generating quotes using AI",
-    long_description=long_description,
-    long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/claude-quote-generator",
+    url="https://github.com/musirikasrinivas/quote_generator",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
