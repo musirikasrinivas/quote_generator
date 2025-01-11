@@ -1,4 +1,4 @@
-# Claude Quote Generator
+# Quote Generator using AI model
 
 A Python library for generating inspirational quotes using the Claude AI API.
 
